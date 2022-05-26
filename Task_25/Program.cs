@@ -5,12 +5,23 @@
 2, 4 -> 16 */
 
 Console.Clear();
-while (true)
+
+Console.Write("Введите число A: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите число B: ");
+int stepen = Convert.ToInt32(Console.ReadLine());
+
+int VozvVStepen (int chislo1, int chislo2)
 {
-    Console.Write("Введите число A: ");
-    double a = Convert.ToInt32(Console.ReadLine());
-    Console.Write("Введите число B: ");
-    double stepen = Convert.ToInt32(Console.ReadLine());
-    double result = Math.Pow(a, stepen);
-    Console.WriteLine($"{a} в степени {stepen} равняется {result}");
+    int result = 1;
+    int i = 0;
+    while (i < chislo2)
+    {
+        result = result * chislo1;
+        i++;
+    }
+    return result;
 }
+int res = VozvVStepen(a, stepen);
+Console.WriteLine($"{a} в степени {stepen} равняется {res}");
+
