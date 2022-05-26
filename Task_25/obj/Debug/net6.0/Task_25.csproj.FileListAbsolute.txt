@@ -1,0 +1,15 @@
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/bin/Debug/net6.0/Task_25
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/bin/Debug/net6.0/Task_25.deps.json
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/bin/Debug/net6.0/Task_25.runtimeconfig.json
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/bin/Debug/net6.0/Task_25.dll
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/bin/Debug/net6.0/Task_25.pdb
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/obj/Debug/net6.0/Task_25.csproj.AssemblyReference.cache
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/obj/Debug/net6.0/Task_25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/obj/Debug/net6.0/Task_25.AssemblyInfoInputs.cache
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/obj/Debug/net6.0/Task_25.AssemblyInfo.cs
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/obj/Debug/net6.0/Task_25.csproj.CoreCompileInputs.cache
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/obj/Debug/net6.0/Task_25.dll
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/obj/Debug/net6.0/refint/Task_25.dll
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/obj/Debug/net6.0/Task_25.pdb
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/obj/Debug/net6.0/Task_25.genruntimeconfig.cache
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №4/Task_25/obj/Debug/net6.0/ref/Task_25.dll
